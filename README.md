@@ -8,8 +8,7 @@
 - Java
 - React.js
 - Python
-- JavaScript
-- 
+- JavaScript 
 - Git & GitHub
 - DSA
 
